@@ -5,7 +5,7 @@ body {
     p:first-child {
         color: $test-var-1;
     }
-    p:last-child {
+    p:nth-child(2) {
         color: $test-var-2;
     }
 }

@@ -1,6 +1,6 @@
 body p:first-child {
   color: red; }
-body p:last-child {
+body p:nth-child(2) {
   color: blue; }
 
 /*# sourceMappingURL=styles.css.map */
