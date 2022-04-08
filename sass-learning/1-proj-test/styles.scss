@@ -1,0 +1,11 @@
+$test-var-1: red;
+$test-var-2: blue;
+
+body {
+    p:first-child {
+        color: $test-var-1;
+    }
+    p:last-child {
+        color: $test-var-2;
+    }
+}

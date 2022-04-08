@@ -1,0 +1,6 @@
+body p:first-child {
+  color: red; }
+body p:last-child {
+  color: blue; }
+
+/*# sourceMappingURL=styles.css.map */
