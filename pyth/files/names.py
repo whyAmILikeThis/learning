@@ -20,10 +20,10 @@
 #     file.write(f"{name}\n")
 ##############write to file##################
 
-with open("names.txt", "r") as file:
-    for line in file:
-        print("hello ", line.rstrip()) # strips from end of line the whitespaces
-######## print unsorted array ##########
+# with open("names.txt", "r") as file:
+#     for line in file:
+#         print("hello ", line.rstrip()) # strips from end of line the whitespaces
+# ######## print unsorted array ##########
 
 
 ##     lines = file.readlines()
